@@ -1,0 +1,39 @@
+h3{
+    background: rgb(230, 247, 0);
+    color: rgb(0, 0, 0);
+    padding: 20px 200px;
+    font-size: 30px;
+}
+.main .project{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(24, 135, 209);
+    float: left;
+    margin-right: 15px;
+    border-radius: 9px;
+}
+.main .client{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(24, 135, 209);
+    float: left;
+    margin-right: 15px;
+    border-radius: 9px;
+}
+.main .achive{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(24, 135, 209);
+    float: left; 
+    border-radius: 9px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 4rem;
+}
